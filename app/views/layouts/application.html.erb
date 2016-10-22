@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Yelp</title>
+    <%= csrf_meta_tags %>
+
+    <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+    <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+  </head>
+
+  <body>
+    <! this goes pages on top of all pages  >
+    <a href="/pages/about">About</a>
+    <a href="/pages/contact">Contact</a>
+    <%= yield %>
+    <! this goes on the bottom of the files>
+    <p>Copyright Jeremiah Parrack</p>
+  </body>
+</html>
