@@ -25,7 +25,7 @@ gem 'pg', group: :production
 gem 'carrierwave'
 gem "fog", "~>1.38"
 gem 'figaro'
-
+gem "mini_magick"
 
 
 
