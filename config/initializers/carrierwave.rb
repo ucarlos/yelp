@@ -1,8 +1,8 @@
 CarrierWave.configure do |config|
   config.fog_credentials = {
     provider:              'AWS',                        # required
-    aws_access_key_id:     "AKIAIPDJ6MTOW3MJ3UJQ",                        # required
-    aws_secret_access_key: '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'
+    aws_access_key_id:     ENV["aws_access_key_id"],   
+    aws_secret_access_key: ENV["aws_secret_access_key"],
   }
-  config.fog_directory  = 'yelping-it'                                   # required
+  config.fog_directory  = ENV["fog_directory"]
 end
