@@ -15,7 +15,7 @@ Asad - implement sort by features on this website
 https://pcpartpicker.com/products/cpu/#sort=a7&page=1  
 
 
-
+Intro to rails - go through it 
 https://mackenziechild.me/intro-to-rails/
 
 
