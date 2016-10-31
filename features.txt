@@ -1,0 +1,16 @@
+tobi - geo-location / goe-fencing
+scrape data from somehwere to add all restaurants in ATL 
+
+
+Aqsa - option to sort from type of restaurants. 
+
+John - $$ rating system 
+
+
+Asad - implement sort by features on this website 
+https://pcpartpicker.com/products/cpu/#sort=a7&page=1  
+
+
+
+
+
