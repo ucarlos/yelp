@@ -1,7 +1,9 @@
 jeremiahlukus1@gmail.com
 
-tobi - geo-location / goe-fencing
-scrape data from somehwere to add all restaurants in ATL 
+tobi - geo-location   <! use tmate for pair programming > 
+Carlos - goe-fencing
+
+Jeremiah - scrape data from somehwere to add all restaurants in ATL 
 
 
 Aqsa - option to sort from type of restaurants. 
