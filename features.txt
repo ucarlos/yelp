@@ -6,7 +6,7 @@ Carlos - goe-fencing
 Jeremiah - scrape data from somehwere to add all restaurants in ATL 
 
 
-Aqsa - option to sort from type of restaurants. 
+Aqsa - option to sort from type of restaurants. ( mex, chinesse indian ect..)  
 
 John - $$ rating system 
 
