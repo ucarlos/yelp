@@ -1,0 +1,24 @@
+jeremiahlukus1@gmail.com
+
+tobi - geo-location   <! use tmate for pair programming > 
+Carlos - goe-fencing
+
+Jeremiah - scrape data from somehwere to add all restaurants in ATL 
+
+
+Aqsa - option to sort from type of restaurants. ( mex, chinesse indian ect..)  
+
+John - $$ rating system 
+
+
+Asad - implement sort by features on this website 
+https://pcpartpicker.com/products/cpu/#sort=a7&page=1  
+
+
+Intro to rails - go through it 
+https://mackenziechild.me/intro-to-rails/
+
+
+
+
+
