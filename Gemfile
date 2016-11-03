@@ -27,6 +27,6 @@ gem "fog", "~>1.38"
 gem 'figaro'
 gem "mini_magick"
 gem 'devise'
-
+gem 'searchkick'
 
 
