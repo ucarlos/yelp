@@ -1,7 +1,7 @@
 jeremiahlukus1@gmail.com
 
 tobi - geo-location   <! use tmate for pair programming > 
-Carlos - goe-fencing
+Carlos - Geofencing
 
 Jeremiah - scrape data from somehwere to add all restaurants in ATL ?
 set up google maps  
