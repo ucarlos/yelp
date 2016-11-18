@@ -1,7 +1,8 @@
 jeremiahlukus1@gmail.com
+Discord server for this project: https://discord.gg/ZgpbrMh
 
 tobi - geo-location   <! use tmate for pair programming > 
-Carlos - goe-fencing
+Ulysses - Geofencing(sure i guess)
 
 Jeremiah - scrape data from somehwere to add all restaurants in ATL ?
 set up google maps  
