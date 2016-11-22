@@ -21,7 +21,7 @@ https://mackenziechild.me/intro-to-rails/
 
 
 Documentation: 
-Class diagram of the code base. 
+Class diagram of the code base.
 
 Design specification/ Entity-Relationship diagram of the database. 
 
