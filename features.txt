@@ -1,7 +1,8 @@
 jeremiahlukus1@gmail.com
+Discord server for this project: https://discord.gg/ZgpbrMh
 
 tobi - geo-location   <! use tmate for pair programming > 
-Carlos - goe-fencing
+Ulysses - Geofencing(sure i guess)
 
 Jeremiah - scrape data from somehwere to add all restaurants in ATL ?
 set up google maps  
@@ -19,7 +20,18 @@ Intro to rails - go through it
 https://mackenziechild.me/intro-to-rails/
 
 
+Documentation: 
+Class diagram of the code base.
 
+Design specification/ Entity-Relationship diagram of the database. 
+
+Functional Specification - detail description of the features of your project.
+
+Test case document – description of the test cases for the features of your project.
+
+Deployment document – describe how someone will install your software/project into their computer.
+
+User manual – describe how someone will use your project. 
 
 
 
