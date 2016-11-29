@@ -1,27 +1,39 @@
 #"Yelping it up" README
 
 ##Ruby version
-###Version used to build this web app is 2.3.0
+The Ruby version used to build this web app is 2.3.0. 
 
 ##System dependencies
-###The system dependencies below are what hinder or slow  process of deployment
-### gem install rails -v 4.2.6
-### Ruby on Rails installation
-###Heroku technical difficulties
-### gem sqlite3, 
+###The following system dependencies may delay development of this project:
+* Installing the correct version of Rails for this project(Rails 4.2.6)
+* Ruby on Rails installation
+* Heroku technical difficulties
+* Installing the sqlite3 gem
 
 ##Installation 
-#### git clone https://github.com/jeremiahlukus/yelp.git
-#### cd yelp
-#### bundle install
-### then configure aws and start your rails server
-#### rails s
+You must first have git installed on your local machine in order to downlone a clone of this project.
 
+Open Terminal/cmd and enter the following:
+```bash
+git clone https://github.com/jeremiahlukus/yelp.git 
+
+cd yelp
+
+bundle install
+```
+Before running the rails server, make sure that you have configured your aws keys into the project.
+When you are finished, navigate to the project's root directory and run this command into terminal/cmd.
+```bash
+rails server
+```
 
 ##Configuration
 1.Download the Yelp project and place it somewhere on your computer.
+
 2.From the root directory of the Yelp project, navigate to the "config" folder.
+
 3.Create a file called "applications.yml" 
+
 4.Add your aws keys into the file and save it.
 
 ## Rails Installation Process 
