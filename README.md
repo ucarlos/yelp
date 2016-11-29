@@ -1,24 +1,47 @@
-# README
+#Welcome to Yelping-it-Up
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+##Ruby version
+###Version used to build this web app is 2.3.0
 
-Things you may want to cover:
+##System dependencies
+###The system dependencies below are what hinder or slow  process of deployment
+### gem install rails -v 4.2.6
+### Ruby on Rails installation
+###Heroku technical difficulties
+### gem sqlite3, 
 
-* Ruby version
+##Configuration
+###Navigate to your yelp folder then go into config and create a file called applications.yml and then add your own aws keys. 
 
-* System dependencies
+#Database creation
+###The creation of the MySQL or PostgreSQL, is through the command prompt or the terminal. Please use this site help you understand the instructions for downloading MySQL or PostgreSQL https://gorails.com/setup/osx/10.12-sierra.
+ ##Database initialization
+### gem 
+###bundle install
+### /etc/init.d/mysql start
+###and then run rake db:create
 
-* Configuration
 
-* Database creation
+##How to run the test suite
+###type in rake test TEST=test/unit/invitation_test.rb in your terminal or command prompt with in the yelp directory.
 
-* Database initialization
+##Deployment instructions
+### Install Ruby on Rails if you are running ”Yelping it up” on your local machine. If you intend to run a local version of ”Yelping it up”, it is necessary to install Ruby on Rails on your computer. For more information regarding the installa- tion of Ruby on Rails on your local machine, please visit http://installrails.com.
+####Mac OSX and Linu
+#####Should you like to run ”Yelping it up” on your local machine, RVM should be installed to easily manage different versions of Ruby. This is very helpful when running multiple versions of Ruby and you wish to keep your Ruby projects distinct from your Ruby on Rails applications.
+####Windows
+#####Installing Ruby on Rails is more complicated than on OSX and Linux. If you have not installed Ruby on your computer, you may install Ruby on Rails here: http://railsinstaller.org/en
+##Test Case
+###Using a Web Browser (Firefox, Chrome, etc)
+####Open your preferred web browser and navigate to https://yelping-it- up.herokuapp.com/ You should see the main page of the website.
+###Using RVM and Terminal(OSX and Linux)
+####Should you like to run ”Yelping it up” on your local machine, RVM should be installed to easily manage different versions of Ruby. This is very helpful when running multiple versions of Ruby and you wish to keep your Ruby projects distinct from your Ruby on Rails applications.
+*1. Navigate to the main directory of the Rails project. You should see various folders such as bin and lib.
+*2.Open Terminal. This can be done in OSX and Linux by searching for ”terminal” in Applications or in Programs. If you are using Ubuntu or Linux Mint, you can easily open terminal by pressing Ctrl-Alt-T.
+*3. Enter the following into your terminal session:2
+bin/rails server
+*4. Your Terminal window will display something like the following:
+      listening on tcp://localhost:3000
+*5. Copy this URL into your web browser.
+This should allow you to see the main page. By default, there should only be a empty table displayed on the main page.
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
