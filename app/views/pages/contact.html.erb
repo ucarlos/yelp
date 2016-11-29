@@ -1,0 +1,87 @@
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Bootstrap Vertical Tabs</title>
+    <link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css">
+    <link rel="stylesheet" href="bootstrap.vertical-tabs.css">
+    <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+    <script src="http://netdna.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
+  </head>
+  <body>
+    <div class="container">
+      <div class="page-header">
+        <h1>We would love to hear from you </h1>
+      </div>
+
+      <div class="row" style="min-height:600px;">
+        <div class="col-sm-6">
+          <h3>Feel free to spam us with awesome job offers.</h3>
+          <hr/>
+          <div class="col-xs-3"> <!-- required for floating -->
+            <!-- Nav tabs -->
+            <ul class="nav nav-tabs tabs-left">
+              <li class="active"><a href="#home" data-toggle="tab">Home</a></li>
+              <li><a href="#Jeremiah" data-toggle="tab">Jeremiah</a></li>
+              <li><a href="#Carlos" data-toggle="tab">Carlos</a></li>
+              <li><a href="#Asadud" data-toggle="tab">Asadud</a></li>
+              <li><a href="#John" data-toggle="tab">John</a></li>
+              <li><a href="#Tobi" data-toggle="tab">Tobi</a></li>
+              <li><a href="#Aqsa" data-toggle="tab">Aqsa</a></li>
+            </ul>
+          </div>
+          <div class="col-xs-9">
+            <!-- Tab panes -->
+            <div class="tab-content">
+              <div class="tab-pane active" id="home">
+              <h3>Our team leader Jeremiah has been the driving force in developing this site in a clear and concise way with the help of our developmental team: Aqsa, Carlos, Tobi, Asadud, and John to help an create a great
+                enviroment for its community! Check out these people!</h3>
+              </div>
+              <div class="tab-pane" id="Jeremiah"> 
+                <h1>Team role:</h1>
+                <h3>Team leader, main coder/ devoloper.</h3>
+                <p>Want to see what I am working on? Vist my <%= link_to "github", "https://github.com/jeremiahlukus"%> </p>
+                <p>Connect with me on <%= link_to "LinkedIn", "https://www.linkedin.com/in/ulysses-carlos-47557a125"%> </p>
+                <p>Interested in random coding adventures and or Italian ? Vist my <%= link_to "site", "https://sites.google.com/site/jeremiahparrack/home"%> </p>
+              </div>
+              <div class="tab-pane" id="Carlos">
+                <h1>Team role:</h1>
+                <h3>Project Tester and documenter</h3>
+                <p>My LinkekIn is  <%= link_to "LinkedIn", "https://www.linkedin.com/in/ulysses-carlos-47557a125"%></p>
+                <p>My personal Website, <%= link_to "site","https://sites.google.com/site/ulyssescarlos1/"%> </p>
+                <p>Here's my <%= link_to "GitHub!", "https://github.com/John-Graber"%></p>
+              </div>
+              <div class="tab-pane" id="Asadud">
+                <h1>Team role:</h1>
+                <h3>Designer and Documenter</h3>
+                <p>Visit my <%= link_to "LinkedIn!", "https://www.linkedin.com/in/asadud-rouf-3b737512a"%></p>
+                <p>Want to see a cool personal <%= link_to "site?","https://sites.google.com/view/asadudrouf424"%></p>
+                <p>Here's my <%= link_to "GitHub!", "https://github.com/arouf424"%></p>
+              </div>
+              <div class="tab-pane" id="John">
+                <h1>Team role:</h1>
+                <h3>Development Assistant</h3>
+                <p>Check out my <%= link_to "GitHub!", "https://github.com/John-Graber"%></p>
+                <p>I've got a <%= link_to "LinkedIn", "https://www.linkedin.com/in/john-graber-7a237812a"%> too!</p>
+                <p>Here's my <%= link_to "site!","https://sites.google.com/site/johngraberssite/"%></p>
+              </div>
+              <div class="tab-pane" id="Tobi">
+                <h1>Team role:</h1>
+                <h3>Unpaid Intern, Documenter</h3>
+                <p>Want to see what I am working on? Vist my <%= link_to "github","https://github.com/togunyale26"%></p>
+                <p>Connect with me on <%= link_to "LinkedIn", "https://www.linkedin.com/in/tobi-ogunyale-48abb0b0"%></p>
+                <p>Interested in Robotics and Sleep? Vist my <%= link_to "site", "https://sites.google.com/site/tobiogunyale/"%></p>
+              </div>
+              <div class="tab-pane" id="Aqsa">
+                <h1>Team role:</h1>
+                <h3>Project Tester and documenter</h3>
+                <p>My Github is here: <%= link_to "github", "https://github.com/asohail2"%> </p>
+                <p>My LinkekIn is  <%=link_to "LinkedIn", "https://www.linkedin.com/in/aqsa-sohail-8ab688b7"%></p>
+                <p>My personal Website, <%= link_to "site","https://sites.google.com/site/aqsas1portfolio/"%></p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
