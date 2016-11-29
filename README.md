@@ -24,18 +24,18 @@
 
 
 
-##How to run the test suite
-###type in rake test TEST=test/unit/invitation_test.rb in your terminal or command prompt with in the yelp directory.
 
-##Deployment instructions
+## Rails Installation Process 
 ### Install Ruby on Rails if you are running ”Yelping it up” on your local machine. If you intend to run a local version of ”Yelping it up”, it is necessary to install Ruby on Rails on your computer. For more information regarding the installa- tion of Ruby on Rails on your local machine, please visit http://installrails.com.
-####Mac OSX and Linu
+####Mac OSX and Linux
 #####Should you like to run ”Yelping it up” on your local machine, RVM should be installed to easily manage different versions of Ruby. This is very helpful when running multiple versions of Ruby and you wish to keep your Ruby projects distinct from your Ruby on Rails applications.
 ####Windows
 #####Installing Ruby on Rails is more complicated than on OSX and Linux. If you have not installed Ruby on your computer, you may install Ruby on Rails here: http://railsinstaller.org/en
 ##Test Case
 ###Using a Web Browser (Firefox, Chrome, etc)
 ####Open your preferred web browser and navigate to https://yelping-it- up.herokuapp.com/ You should see the main page of the website.
+
+## Words of Wisdom 
 ###Using RVM and Terminal(OSX and Linux)
 ####Should you like to run ”Yelping it up” on your local machine, RVM should be installed to easily manage different versions of Ruby. This is very helpful when running multiple versions of Ruby and you wish to keep your Ruby projects distinct from your Ruby on Rails applications.
 *1. Navigate to the main directory of the Rails project. You should see various folders such as bin and lib.
