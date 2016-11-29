@@ -11,12 +11,8 @@ module Yelp
     # Settings in config/environments/* take precedence over those specified here.
     # Application configuration should go into files in config/initializers
     # -- all .rb files in that directory are automatically loaded.
-    
-
-
-aws_access_key_id:'AKIAIZ5UDGFP4L6JD5VA'
-aws_secret_access_key:'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'
-fog_directory:'yelping-it'
-  
+<<<<<<< HEAD
+=======
+>>>>>>> a12de547cc11e3818790a8c6c834867eb85d1185
   end
 end
