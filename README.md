@@ -1,4 +1,4 @@
-#Welcome to Yelping-it-Up
+#"Yelping it up" README
 
 ##Ruby version
 ###Version used to build this web app is 2.3.0
@@ -19,11 +19,10 @@
 
 
 ##Configuration
-###Navigate to your yelp folder then go into config and create a file called applications.yml and then add your own aws keys. 
-
-
-
-
+1.Download the Yelp project and place it somewhere on your computer.
+2.From the root directory of the Yelp project, navigate to the "config" folder.
+3.Create a file called "applications.yml" 
+4.Add your aws keys into the file and save it.
 
 ## Rails Installation Process 
 Install Ruby on Rails if you are running ”Yelping it up” on your local machine. If you intend to run a local version of ”Yelping it up”, it is necessary to install Ruby on Rails on your computer. For more information regarding the installa- tion of Ruby on Rails on your local machine, please visit http://installrails.com.
