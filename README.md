@@ -10,16 +10,18 @@
 ###Heroku technical difficulties
 ### gem sqlite3, 
 
+##Installation 
+#### git clone https://github.com/jeremiahlukus/yelp.git
+#### cd yelp
+#### bundle install
+### then configure aws and start your rails server
+#### rails s
+
+
 ##Configuration
 ###Navigate to your yelp folder then go into config and create a file called applications.yml and then add your own aws keys. 
 
-#Database creation
-###The creation of the MySQL or PostgreSQL, is through the command prompt or the terminal. Please use this site help you understand the instructions for downloading MySQL or PostgreSQL https://gorails.com/setup/osx/10.12-sierra.
- ##Database initialization
-### gem 
-###bundle install
-### /etc/init.d/mysql start
-###and then run rake db:create
+
 
 
 ##How to run the test suite
