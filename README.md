@@ -55,7 +55,9 @@ Should you like to run ”Yelping it up” on your local machine, RVM should be 
 3. Enter the following into your terminal session:2
 bin/rails server
 4. Your Terminal window will display something like the following:
+```bash
       listening on tcp://localhost:3000
-5. Copy this URL into your web browser.
+ ```
+ Copy this URL into your web browser.
 This should allow you to see the main page. By default, there should only be a empty table displayed on the main page.
 
