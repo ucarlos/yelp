@@ -44,7 +44,7 @@ Should you like to run ”Yelping it up” on your local machine, RVM should be 
 Installing Ruby on Rails is more complicated than on OSX and Linux. If you have not installed Ruby on your computer, you may install Ruby on Rails here: http://railsinstaller.org/en
 ##Test Case
 ###Using a Web Browser (Firefox, Chrome, etc)
-####Open your preferred web browser and navigate to https://yelping-it- up.herokuapp.com/ You should see the main page of the website.
+Open your preferred web browser and navigate to https://yelping-it- up.herokuapp.com/ You should see the main page of the website.
 
 ## Words of Wisdom 
 ###Using RVM and Terminal(OSX and Linux)
